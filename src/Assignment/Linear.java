@@ -12,7 +12,7 @@ public class Linear implements Framework{
      */
     public void linearSearch(String scenario) {
         for (int listSize : ListSize) {
-            int[] array = Main.createSortedList(listSize);
+            int[] array = App.createSortedList(listSize);
             double[] averageTimeList = new double[testRounds];
             int target = -1;
 
@@ -40,7 +40,7 @@ public class Linear implements Framework{
 
             }
 
-            double averageDuration = Main.calculateAverage(averageTimeList);
+            double averageDuration = App.calculateAverage(averageTimeList);
             System.out.println(" - Execution Time: " + averageDuration + "ms" + " [" + listSize + "]" + target);
         }
     }

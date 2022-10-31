@@ -11,7 +11,7 @@ public class Binary implements Framework {
      */
     public void binarySearch(String scenario) {
         for (int listSize : ListSizeB) {
-            int[] array = Main.createSortedList(listSize);
+            int[] array = App.createSortedList(listSize);
             double[] averageTimeList = new double[testRounds];
             int target = 1;
 
@@ -47,7 +47,7 @@ public class Binary implements Framework {
                 averageTimeList[i] = Duration.between(instant1, instant2).toMillis();
             }
 
-            double averageDuration = Main.calculateAverage(averageTimeList);
+            double averageDuration = App.calculateAverage(averageTimeList);
             System.out.println(" - Execution Time: " + averageDuration + "ms" + " [" + listSize + "]" + target);
         }
 

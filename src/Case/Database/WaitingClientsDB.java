@@ -1,6 +1,6 @@
-package Assignment1.Database;
+package Case.Database;
 
-import Assignment1.ScanData.WaitingClient;
+import Case.ScanData.WaitingClient;
 
 import java.util.ArrayList;
 

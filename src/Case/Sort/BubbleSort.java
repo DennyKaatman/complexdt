@@ -1,12 +1,6 @@
-package Assignment1.Sort;
+package Case.Sort;
 
 public class BubbleSort {
-    /**
-     * bubbleSort function.
-     * Sorts the array in
-     * @param arr unsorted array
-     * Copied from: https://www.javatpoint.com/bubble-sort-in-java
-     */
     public static void bubbleSort(int[] arr) {
         int n = arr.length;
         int temp = 0;
@@ -32,6 +26,15 @@ public class BubbleSort {
             if (arr[i-1] > arr[i]) return false;
         }
         return true;
+    }
+
+    public static void main(String[] args) {
+        int[] array = new int[]{10, 5 , 15, 20, 129, 204, 4, 24};
+        BubbleSort.bubbleSort(array);
+
+        for (int i = 0; i < array.length; i++) {
+            System.out.print(array[i] + " ");
+        }
     }
 
 }

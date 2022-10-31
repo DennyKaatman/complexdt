@@ -1,0 +1,56 @@
+package Case.Datastructures;
+
+/**
+ * Node for the Double Linked list, every node knows the next node and the
+ * previous node and has a value (data) stored inside.
+ */
+public class Node<T extends  Comparable<T>>{
+    private T data;
+    public Node<T> previous;
+    public Node<T> next;
+
+    public Node(T data){
+        this.data = data;
+        previous = null;
+        next = null;
+    }
+
+    public Node(T data, Node previous, Node next){
+        this.data = data;
+        this.previous = previous;
+        this.next = next;
+    }
+
+    public T Data() {
+        return data;
+    }
+
+    public T getData() {
+        return data;
+    }
+
+    public void setData(T data) {
+        this.data = data;
+    }
+
+    public Node<T> getPrevious() {
+        return previous;
+    }
+
+    public void setPrevious(Node<T> previous) {
+        this.previous = previous;
+    }
+
+    public Node<T> getNext() {
+        return next;
+    }
+
+    public void setNext(Node<T> next) {
+        this.next = next;
+    }
+
+    @Override
+    public String toString() {
+        return data.toString();
+    }
+}

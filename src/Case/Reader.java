@@ -1,11 +1,11 @@
-package Assignment1;
+package Case;
 
-import Assignment1.Database.ComplaintsDB;
-import Assignment1.Database.HomesDB;
-import Assignment1.Database.WaitingClientsDB;
-import Assignment1.ScanData.Complaints;
-import Assignment1.ScanData.Home;
-import Assignment1.ScanData.WaitingClient;
+import Case.Database.ComplaintsDB;
+import Case.Database.HomesDB;
+import Case.Database.WaitingClientsDB;
+import Case.ScanData.Complaints;
+import Case.ScanData.Home;
+import Case.ScanData.WaitingClient;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -57,7 +57,6 @@ public class Reader {
         return new Home(
                 HomeID, AddressX, AddressY, Rent, NrOfRooms, Garden);
     }
-
     private WaitingClient createWaitingClient(String[] lineParts){
         int ClientID = Integer.parseInt(lineParts[0]);
         String Name = String.valueOf(lineParts[1]);

@@ -1,10 +1,8 @@
-package Assignment1;
+package Case;
 
-import Assignment1.Database.ComplaintsDB;
-import Assignment1.Database.HomesDB;
-import Assignment1.Database.WaitingClientsDB;
-import Assignment1.ScanData.Complaints;
-import Assignment1.ScanData.WaitingClient;
+import Case.Database.ComplaintsDB;
+import Case.Database.HomesDB;
+import Case.Database.WaitingClientsDB;
 
 import java.io.File;
 import java.io.FileNotFoundException;

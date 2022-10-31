@@ -1,6 +1,6 @@
-package Assignment1.ScanData;
+package Case.ScanData;
 
-public class WaitingClient {
+public class WaitingClient implements Comparable<WaitingClient>{
     private int ClientID;
     private String Name;
     private String Initials;
@@ -75,5 +75,10 @@ public class WaitingClient {
                 ", NrOfRooms=" + NrOfRooms +
                 ", Garden=" + Garden +
                 '}';
+    }
+
+    @Override
+    public int compareTo(WaitingClient o) {
+        return Integer.compare(this.Urgency, o.getUrgency());
     }
 }

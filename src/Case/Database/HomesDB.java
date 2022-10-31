@@ -1,6 +1,6 @@
-package Assignment1.Database;
+package Case.Database;
 
-import Assignment1.ScanData.Home;
+import Case.ScanData.Home;
 
 import java.util.ArrayList;
 

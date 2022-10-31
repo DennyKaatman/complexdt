@@ -1,4 +1,4 @@
-package Assignment1.ScanData;
+package Case.ScanData;
 
 public class Complaints {
     private int ComplaintID;

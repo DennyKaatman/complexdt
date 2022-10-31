@@ -1,4 +1,4 @@
-package Assignment1.ScanData;
+package Case.ScanData;
 
 public class Home {
     private int HomeID;
