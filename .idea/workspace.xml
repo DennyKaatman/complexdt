@@ -5,47 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5bae4006-81fc-4fc0-93e2-705f290d6774" name="Changes" comment="Alles eig">
-      <change afterPath="$PROJECT_DIR$/src/Case/AVLtree/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/AVLtree/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/AVLtree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/AVLtree/Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Datastructures/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Datastructures/DoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Datastructures/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Datastructures/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Datastructures/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Datastructures/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Graph/AdjacencyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Heap/Heaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Heap/MaxHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Heap/MinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/RegEx/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/RegEx/RegularExpressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Sort/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Tree/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Tree/AvlTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Tree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Tree/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Case/Tree/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Binary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Linear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/Linear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assignment/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Data/Complaints.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Data/Complaints.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Data/Homes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Data/Homes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Data/Waitinglist.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Data/Waitinglist.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Database/ComplaintsDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Database/ComplaintsDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Database/HomesDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Database/HomesDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Database/WaitingClientsDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Database/WaitingClientsDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/ScanData/Complaints.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/ScanData/Complaints.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/ScanData/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/ScanData/Home.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/ScanData/WaitingClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/ScanData/WaitingClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assignment1/Sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Case/Sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +45,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Case/AVLtree" />
+    <property name="last_opened_file_path" value="$USER_HOME$/20" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -191,7 +152,7 @@
       <workItem from="1664045336186" duration="677000" />
       <workItem from="1666379159269" duration="2647000" />
       <workItem from="1666439153537" duration="1609000" />
-      <workItem from="1667057665762" duration="27616000" />
+      <workItem from="1667057665762" duration="29940000" />
     </task>
     <task id="LOCAL-00001" summary="Alles eig">
       <created>1663966876265</created>
@@ -200,7 +161,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663966876265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Alles eig">
+      <created>1667218400515</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667218400515</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Alles eig">
+      <created>1667218412032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667218412032</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
